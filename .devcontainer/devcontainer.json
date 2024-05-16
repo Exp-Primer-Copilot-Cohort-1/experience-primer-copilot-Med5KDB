@@ -1,0 +1,12 @@
+
+{
+    // Name this configuration
+    "name": "Muhammad Al Amine Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
